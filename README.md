@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF9300&background=FF000000&center=true&vCenter=true&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
+
+
 <!--
 **Cln89/Cln89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+| My Schedule | 
+|  |
