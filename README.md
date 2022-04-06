@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| Tools, languages and knowledge |
+Tools, languages and knowledge |
 --- | --- 
 **Languages**  | **IDE's** | 
 Learning ![Rust Badge](https://img.shields.io/badge/Language-Rust-orange?style=for-the-badge&logo=rust) | ![Intellij Badge](https://img.shields.io/badge/IDE-IntelliJ-gray?style=for-the-badge&logo=intellijidea) 
