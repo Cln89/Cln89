@@ -1,6 +1,4 @@
-### Hi there 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF9300&background=FF000000&center=true&vCenter=true&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF9300&background=FF000000&center=true&vCenter=true&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg) -->
 
 
 <!--
