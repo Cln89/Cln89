@@ -29,7 +29,7 @@ Familiar with ![Java Badge](https://img.shields.io/badge/Language-Java-red?style
 </a>
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colin-Laan&title_color=FFFFFF&icon_color=F8F8F8&text_color=EAEAEA&bg_color=15,000000,3F3F3F,3F3F3F,3F3F3F,3F3F3F,3F3F3F,00FF7A" alt="Colin's Used Languages">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colin-Laan&langs_count=8&title_color=FFFFFF&icon_color=F8F8F8&text_color=EAEAEA&bg_color=15,000000,3F3F3F,3F3F3F,3F3F3F,3F3F3F,3F3F3F,00FF7A" alt="Colin's Used Languages">
 </a>
 <!-- ![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Colin-Laan&count_private=true&show_icons=true&theme=gotham)
  -->
