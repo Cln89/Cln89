@@ -25,11 +25,11 @@ Familiar with ![Java Badge](https://img.shields.io/badge/Language-Java-red?style
 **Tools & Platforms**  | ![Intellij](https://img.shields.io/badge/IntelliJ-3e3e3e?style=for-the-badge&logo=intellijidea) ![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=GNOMETerminal&logoColor=white) ![Git](https://img.shields.io/badge/Git-E44F26?style=for-the-badge&logo=Git&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-3a3a3a?style=for-the-badge&logo=javascript) ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Colin-Laan&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=F8F8F8&text_color=EAEAEA&bg_color=15,000000,3F3F3F,3F3F3F,3F3F3F,3F3F3F,00FF7A,00FF7A" alt="Colin's Github Stats">
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Cln89&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=F8F8F8&text_color=EAEAEA&bg_color=15,000000,3F3F3F,3F3F3F,3F3F3F,3F3F3F,00FF7A,00FF7A" alt="Cln's Github Stats">
 </a>
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Colin-Laan&langs_count=8&title_color=FFFFFF&icon_color=F8F8F8&text_color=EAEAEA&bg_color=15,000000,3F3F3F,3F3F3F,3F3F3F,3F3F3F,3F3F3F,00FF7A" alt="Colin's Used Languages">
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cln89&langs_count=8&title_color=FFFFFF&icon_color=F8F8F8&text_color=EAEAEA&bg_color=15,000000,3F3F3F,3F3F3F,3F3F3F,3F3F3F,3F3F3F,00FF7A" alt="Cln's Used Languages">
 </a>
-<!-- ![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Colin-Laan&count_private=true&show_icons=true&theme=gotham)
+<!-- ![Cln's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cln89&count_private=true&show_icons=true&theme=gotham)
  -->
