@@ -5,9 +5,17 @@
       <summary>
          <kbd><h3>View Metrics</h3></kbd>
       </summary>
-    <a href="https://github.com/Cln89?tab=repositories&type=source"><img src="./github-metrics.svg" /></a>
+    Joined Github {{ ACCOUNT_AGE }} years ago.
+    <br/>
+    Currently I have pushed {{ COMMITS }} commits, {{ STARS }} from {{ REPOSITORIES }} personal projects and contributed to {{ REPOSITORIES_CONTRIBUTED_TO }}.
+    <br/>
+    I have opened {{ ISSUES }} issues and submitted {{ PULL_REQUESTS }} pull requests.
+    <br/>
+    {{ LANGUAGE_TEMPLATE_START:max=7 }}
+    ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
+    {{ LANGUAGE_TEMPLATE_END }}
    </details>
-<details>
+   <details>
       <summary>
          <kbd><h3>View Skills</h3></kbd>
             <br>
