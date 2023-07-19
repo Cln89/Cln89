@@ -37,7 +37,7 @@ Frontend frameworks
 <a href="https://www.adobe.com/products/coldfusion-family.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Adobe_ColdFusion_logo_2021.svg/1200px-Adobe_ColdFusion_logo_2021.svg.png" height="48" width="48"></a>
 <br><br>
 
-Documents&emsp;&emsp;&emsp;&emsp;&emsp;Designs
+Documents&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;Designs
 <br>
 <a href="https://www.notion.so/"><img src="https://www.notion.so/front-static/logo-ios.png" height="48" width="48"/></a>
 <a href="https://trello.com/"><img src="https://avatars.slack-edge.com/2021-07-19/2282472048054_9a51d280179d828b3ad7_512.png" height="48" width="48" /></a>&emsp;&emsp;&emsp;
