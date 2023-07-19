@@ -60,8 +60,7 @@ Dev tools&emsp;&emsp;&emsp;&emsp;&emsp;Operating systems
 <a href="https://pagespeed.web.dev/"><img src="https://www.gstatic.com/pagespeed/insights/ui/logo/favicon_48.png" height="48" width="48"/></a>
 <a href="https://www.semrush.com/"><img src="https://cdn.semrush.com/__static__/favicon.3cd418d5bb49.ico" height="48" width="48"/></a>&emsp;
 
-<a href="https://kernel.org/"><img src="https://skillicons.dev/icons?i=linux" /></a>
-<a href="https://archlinux.org/"><p>Arch Linux</p></a>
-<a href="https://linuxmint.com/"><p>Linux Mint</p></a>
+<a href="https://archlinux.org/"><img src="https://skillicons.dev/icons?i=linux" /><p>Arch Linux</p></a>
+<a href="https://linuxmint.com/"><img src="https://skillicons.dev/icons?i=linux" /><p>Linux Mint</p></a>
 </details>
 </p>
