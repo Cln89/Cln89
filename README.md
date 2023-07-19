@@ -16,8 +16,8 @@
 <br>
 Operating systems
 <br>
-<a href="https://archlinux.org/" style="display='flex';flex-direction:row;"><img src="https://skillicons.dev/icons?i=linux" /><p>Arch Linux</p></a>
-<a href="https://linuxmint.com/" style="display='flex';flex-direction:row;"><img src="https://skillicons.dev/icons?i=linux" /><p>Linux Mint</p></a>
+<a href="https://archlinux.org/" style="display='flex';flex-direction:row;align-content:center;"><img src="https://skillicons.dev/icons?i=linux" /><span>Arch Linux</span></a>
+<a href="https://linuxmint.com/" style="display='flex';flex-direction:row;align-content:center;"><img src="https://skillicons.dev/icons?i=linux" /><span>Linux Mint</span></a>
 
 Programming languages
 <br>
