@@ -28,14 +28,14 @@ Frontend frameworks
 <a href="https://vuejs.org//"><img src="https://skillicons.dev/icons?i=vue" /></a>
 <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
 <a href="https://sass-lang.com/"><img src="https://skillicons.dev/icons?i=sass" /></a>
-<a href="https://www.adobe.com/products/coldfusion-family.html"><img src="https://ims-na1.adobelogin.com/favicon.ico?cache_bust=2a7f5efa0fa33" height="48" width="48"></a>
+<a href="https://www.adobe.com/products/coldfusion-family.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Adobe_ColdFusion_logo_2021.svg/1200px-Adobe_ColdFusion_logo_2021.svg.png" height="48" width="48"></a>
 <br><br>
 
-Documents and designs
+Documents &emsp;&emsp;&emsp; designs
 <br>
 <a href="https://www.notion.so/"><img src="https://www.notion.so/front-static/logo-ios.png" height="48" width="48"/></a>
 <a href="https://trello.com/"><img src="https://avatars.slack-edge.com/2021-07-19/2282472048054_9a51d280179d828b3ad7_512.png" height="48" width="48" /></a>
-&emsp;
+&emsp;&emsp;&emsp;
 <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" /></a>
 <br><br>
 
@@ -58,9 +58,11 @@ Dev tools&emsp;&emsp;&emsp;&emsp;&emsp;Operating systems
 <a href="https://gradle.org/"><img src="https://skillicons.dev/icons?i=gradle" /></a>
 <a href="https://postman.com/"><img src="https://skillicons.dev/icons?i=postman" /></a>
 <a href="https://pagespeed.web.dev/"><img src="https://www.gstatic.com/pagespeed/insights/ui/logo/favicon_48.png" height="48" width="48"/></a>
-<a href="https://www.semrush.com/"><img src="https://cdn.semrush.com/__static__/favicon.3cd418d5bb49.ico" height="48" width="48"/></a>&emsp;
+<a href="https://www.semrush.com/"><img src="https://cdn.semrush.com/__static__/favicon.3cd418d5bb49.ico" height="48" width="48"/></a>
 
-<a href="https://archlinux.org/"><img src="https://skillicons.dev/icons?i=linux" /><p>Arch Linux</p></a>
-<a href="https://linuxmint.com/"><img src="https://skillicons.dev/icons?i=linux" /><p>Linux Mint</p></a>
+&emsp;&emsp;&emsp;
+
+<a href="https://archlinux.org/" style="display='flex';flex-direction:row;"><img src="https://skillicons.dev/icons?i=linux" /><p>Arch Linux</p></a>
+<a href="https://linuxmint.com/" style="display='flex';flex-direction:row;"><img src="https://skillicons.dev/icons?i=linux" /><p>Linux Mint</p></a>
 </details>
 </p>
