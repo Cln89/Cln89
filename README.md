@@ -47,7 +47,7 @@ Documents&emsp;&emsp;&emsp;&emsp;Designs
 Technologies&emsp;&emsp;&emsp;&emsp;Databases
 <br>
 <a href="https://discord.com/"><img src="https://skillicons.dev/icons?i=discord" /></a>
-<a href="https://discord.com/developers/docs/intro"><img src="https://skillicons.dev/icons?i=discordbots" /></a>&esmp;&esmp;&esmp;
+<a href="https://discord.com/developers/docs/intro"><img src="https://skillicons.dev/icons?i=discordbots" /></a>&emsp;&emsp;&emsp;
 <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
 <a href="https://www.mariadb.org/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
 <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgresql" /></a><br><br>
