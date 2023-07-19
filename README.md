@@ -13,6 +13,12 @@
         <br>
   </summary>
 
+<br>
+Operating systems
+<br>
+<a href="https://archlinux.org/" style="display='flex';flex-direction:row;"><img src="https://skillicons.dev/icons?i=linux" /><p>Arch Linux</p></a>
+<a href="https://linuxmint.com/" style="display='flex';flex-direction:row;"><img src="https://skillicons.dev/icons?i=linux" /><p>Linux Mint</p></a>
+
 Programming languages
 <br>
 <a href="https://java.com/"><img src="https://skillicons.dev/icons?i=java" /></a>
@@ -31,7 +37,7 @@ Frontend frameworks
 <a href="https://www.adobe.com/products/coldfusion-family.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Adobe_ColdFusion_logo_2021.svg/1200px-Adobe_ColdFusion_logo_2021.svg.png" height="48" width="48"></a>
 <br><br>
 
-Documents &emsp;&emsp;&emsp; designs
+Documents &emsp;&emsp;&emsp;&esmp; Designs
 <br>
 <a href="https://www.notion.so/"><img src="https://www.notion.so/front-static/logo-ios.png" height="48" width="48"/></a>
 <a href="https://trello.com/"><img src="https://avatars.slack-edge.com/2021-07-19/2282472048054_9a51d280179d828b3ad7_512.png" height="48" width="48" /></a>
@@ -49,7 +55,7 @@ Technologies&emsp;&emsp;&emsp;&emsp;Databases
 <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgresql" /></a>
 <br><br>
 
-Dev tools&emsp;&emsp;&emsp;&emsp;&emsp;Operating systems
+Dev tools
 <br>
 <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
 <a href="https://gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab" /></a>
@@ -59,10 +65,8 @@ Dev tools&emsp;&emsp;&emsp;&emsp;&emsp;Operating systems
 <a href="https://postman.com/"><img src="https://skillicons.dev/icons?i=postman" /></a>
 <a href="https://pagespeed.web.dev/"><img src="https://www.gstatic.com/pagespeed/insights/ui/logo/favicon_48.png" height="48" width="48"/></a>
 <a href="https://www.semrush.com/"><img src="https://cdn.semrush.com/__static__/favicon.3cd418d5bb49.ico" height="48" width="48"/></a>
+<br>
+<br>
 
-&emsp;&emsp;&emsp;
-
-<a href="https://archlinux.org/" style="display='flex';flex-direction:row;"><img src="https://skillicons.dev/icons?i=linux" /><p>Arch Linux</p></a>
-<a href="https://linuxmint.com/" style="display='flex';flex-direction:row;"><img src="https://skillicons.dev/icons?i=linux" /><p>Linux Mint</p></a>
 </details>
 </p>
