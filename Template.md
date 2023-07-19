@@ -72,3 +72,4 @@ Dev tools&emsp;&emsp;&emsp;&emsp;&emsp;Operating systems
     <a href="https://archlinux.org/"><p>Arch Linux</p></a>
     <a href="https://linuxmint.com/"><p>Linux Mint</p></a>
 </details>
+</p>
