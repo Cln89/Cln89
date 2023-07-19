@@ -8,10 +8,10 @@
     <a href="https://github.com/Cln89?tab=repositories&type=source"><img src="./github-metrics.svg" /></a>
    </details>
 <details>
-      <summary>
-         <kbd><h3>View Skills</h3></kbd>
-            <br>
-      </summary>
+  <summary>
+     <kbd><h3>View Skills</h3></kbd>
+        <br>
+  </summary>
 
 Programming languages
 <br>
@@ -28,7 +28,7 @@ Frontend frameworks
 <a href="https://vuejs.org//"><img src="https://skillicons.dev/icons?i=vue" /></a>
 <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
 <a href="https://sass-lang.com/"><img src="https://skillicons.dev/icons?i=sass" /></a>
-<a href="https://www.adobe.com/products/coldfusion-family.html"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Adobe_ColdFusion_logo_2021.svg/120px-Adobe_ColdFusion_logo_2021.svg.png" height="48" width="48"></a>
+<a href="https://www.adobe.com/products/coldfusion-family.html"><img src="https://ims-na1.adobelogin.com/favicon.ico?cache_bust=2a7f5efa0fa33" height="48" width="48"></a>
 <br><br>
 
 Documents and designs
@@ -44,10 +44,10 @@ Technologies&emsp;&emsp;&emsp;&emsp;Databases
 <a href="https://discord.com/"><img src="https://skillicons.dev/icons?i=discord" /></a>
 <a href="https://discord.com/developers/docs/intro"><img src="https://skillicons.dev/icons?i=discordbots" /></a>
 
-    <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
-    <a href="https://www.mariadb.org/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
-    <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgresql" /></a>
-    <br><br>
+<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+<a href="https://www.mariadb.org/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgresql" /></a>
+<br><br>
 
 Dev tools&emsp;&emsp;&emsp;&emsp;&emsp;Operating systems
 <br>
@@ -60,8 +60,8 @@ Dev tools&emsp;&emsp;&emsp;&emsp;&emsp;Operating systems
 <a href="https://pagespeed.web.dev/"><img src="https://www.gstatic.com/pagespeed/insights/ui/logo/favicon_48.png" height="48" width="48"/></a>
 <a href="https://www.semrush.com/"><img src="https://cdn.semrush.com/__static__/favicon.3cd418d5bb49.ico" height="48" width="48"/></a>&emsp;
 
-    <a href="https://kernel.org/"><img src="https://skillicons.dev/icons?i=linux" /></a>
-    <a href="https://archlinux.org/"><p>Arch Linux</p></a>
-    <a href="https://linuxmint.com/"><p>Linux Mint</p></a>
+<a href="https://kernel.org/"><img src="https://skillicons.dev/icons?i=linux" /></a>
+<a href="https://archlinux.org/"><p>Arch Linux</p></a>
+<a href="https://linuxmint.com/"><p>Linux Mint</p></a>
 </details>
 </p>
