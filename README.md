@@ -22,7 +22,7 @@ Operating systems
 Programming languages
 <br>
 <a href="https://java.com/"><img src="https://skillicons.dev/icons?i=java" /></a>
-<a href="https://javascript.com"><img src="https://skillicons.dev/icons?i=js" /></a><br>
+<a href="https://javascript.com"><img src="https://skillicons.dev/icons?i=js" /></a>
 <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
 
 <br><br>
