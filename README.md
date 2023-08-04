@@ -7,17 +7,17 @@
   </summary>
 Joined Github 3 years ago.
 <br/>
-Currently I have pushed 260 commits, 0 from 3 personal projects and contributed to 0.
+Currently I have pushed 260 commits, 0 from 4 personal projects and contributed to 0.
 <br/>
 I have opened 0 issues and submitted 1 pull requests.
 <br/>
   
-![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23A97BFF&message=Kotlin%EF%B8%B174.5%25)
-![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%EF%B8%B116.1%25)
-![QML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2344a51c&message=QML%EF%B8%B17.2%25)
-![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B11.4%25)
+![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23A97BFF&message=Kotlin%EF%B8%B170.8%25)
+![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%EF%B8%B115.3%25)
+![QML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2344a51c&message=QML%EF%B8%B16.8%25)
+![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B15.2%25)
+![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B11.3%25)
 ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B10.4%25)
-![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B10.1%25)
 
 </details>
 <details>
