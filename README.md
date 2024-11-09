@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Colin, Otherwise known as Cln 👋</h1>
-<h3 align="center">A 20-year-old fullstack developer from The Netherlands. Currently all of my code is to be found here on Github, but some later project will be moved to Gitlab.</h3>
+<h3 align="center">A 21-year-old fullstack developer from The Netherlands. Currently most of my code is to be found here on Github and Gitea, some project are being moved to Gitea from GitHub due to the Terms of Service stating that code may be collected for their AI model.</h3>
 <p align="center">
 <details> 
   <summary>
@@ -16,6 +16,8 @@ I have opened 0 issues and submitted 1 pull requests.
 ![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%EF%B8%B115.3%25)
 ![QML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2344a51c&message=QML%EF%B8%B16.8%25)
 ![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B15.1%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23A97BFF&message=HTML%EF%B8%B170.8%25)
+![Javascript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23A97BFF&message=Javascript%EF%B8%B170.8%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B11.3%25)
 ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B10.4%25)
 
@@ -35,6 +37,7 @@ Operating systems
 <br>
 Programming languages
 <br>
+<a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin" /></a>
 <a href="https://java.com/"><img src="https://skillicons.dev/icons?i=java" /></a>
 <a href="https://javascript.com"><img src="https://skillicons.dev/icons?i=js" /></a>
 <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
